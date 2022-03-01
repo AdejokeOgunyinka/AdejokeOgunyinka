@@ -11,3 +11,6 @@
 - 📫 How to reach me: ogunyinkajoke@gmail.com
 - 😄 Pronouns: She, Her
 - ⚡ Fun fact: I love music (playing the guitar, karaoke)
+
+![](https://github.com/AdejokeOgunyinka/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/AdejokeOgunyinka/github-stats/blob/master/generated/languages.svg)
