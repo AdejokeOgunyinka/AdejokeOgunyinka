@@ -2,7 +2,7 @@
 <!--
 **AdejokeOgunyinka/AdejokeOgunyinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+- I'm a React Frontend Developer 😊😊
 - 🔭 I’m currently working on: DOMS (The frontend of a Drivers Operations & Management System)
 - 🌱 I’m currently learning: Javascript, the Hard parts
 - 👯 I’m looking to collaborate on: Web Development (React Frontend)
